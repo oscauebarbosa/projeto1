@@ -1,0 +1,50 @@
+header {
+    background-color: #008000;
+    color: white;
+
+}
+
+main {
+    background-color: rgb(171, 238, 174);
+    color: rgb(0, 0, 0);
+}
+
+#quemsomos {
+    color: #008000;
+}
+
+#destaques {
+    color: blue;
+}
+
+.paragrafo_grande {
+    font-size: 50px;
+}
+
+.impar {
+    background-color: yellow;
+}
+
+.par {
+    background-color: #008000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
